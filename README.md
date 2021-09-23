@@ -1,2 +1,2 @@
 # virtual-piano
-https://github.com/alexej1900/virtual-piano/virtual-piano/
+https://alexej1900.github.io/virtual-piano/virtual-piano/
